@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rdinnager.github.io/dinnage_lab_website/sitemap.xml

@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Dinnage Lab",
+    "description": "",
+    "home_page_url": "https://rdinnager.github.io/dinnage_lab_website",
+    "feed_url": "https://rdinnager.github.io/dinnage_lab_website/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Russell Dinnage"
+    },
+    "items": [
+    ]
+}
