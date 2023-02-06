@@ -3,7 +3,7 @@
     <title>Dinnage Lab</title>
     <link href="https://rdinnager.github.io/dinnage_lab_website/feed.xml" rel="self" />
     <link href="https://rdinnager.github.io/dinnage_lab_website" />
-    <updated>2023-02-06T16:52:40-05:00</updated>
+    <updated>2023-02-06T16:56:33-05:00</updated>
     <author>
         <name>Russell Dinnage</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://rdinnager.github.io/dinnage_lab_website/r-software.html"/>
         <id>https://rdinnager.github.io/dinnage_lab_website/r-software.html</id>
 
-        <updated>2023-02-06T15:33:37-05:00</updated>
+        <updated>2023-02-06T16:56:02-05:00</updated>
             <summary>
                 <![CDATA[
                     I am main developer of the following R packages: I am co-developer of the following R packages: phyr ENMTools
@@ -48,7 +48,7 @@
         <id>https://rdinnager.github.io/dinnage_lab_website/gallery.html</id>
         <media:content url="https://rdinnager.github.io/dinnage_lab_website/media/posts/2/image1.png" medium="image" />
 
-        <updated>2023-02-06T16:52:32-05:00</updated>
+        <updated>2023-02-06T16:56:28-05:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -68,7 +68,7 @@
         <link href="https://rdinnager.github.io/dinnage_lab_website/research-themes.html"/>
         <id>https://rdinnager.github.io/dinnage_lab_website/research-themes.html</id>
 
-        <updated>2023-02-06T16:52:40-05:00</updated>
+        <updated>2023-02-06T16:56:33-05:00</updated>
             <summary>
                 <![CDATA[
                     Broadly my lab is focused on the intersection between EEB (ecology and evolutionary biology) and computer science (in the form of Artificial Intelligence, e.g. A.I. research) Some general areas of interest: How deep learning techniques can be brought into EEB in a deeper way (no&hellip;
