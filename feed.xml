@@ -3,10 +3,40 @@
     <title>Dinnage Lab</title>
     <link href="https://rdinnager.github.io/dinnage_lab_website/feed.xml" rel="self" />
     <link href="https://rdinnager.github.io/dinnage_lab_website" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2023-02-06T15:27:53-05:00</updated>
     <author>
         <name>Russell Dinnage</name>
     </author>
     <id>https://rdinnager.github.io/dinnage_lab_website</id>
 
+    <entry>
+        <title>R Software</title>
+        <author>
+            <name>Russell Dinnage</name>
+        </author>
+        <link href="https://rdinnager.github.io/dinnage_lab_website/r-software.html"/>
+        <id>https://rdinnager.github.io/dinnage_lab_website/r-software.html</id>
+
+        <updated>2023-02-06T15:27:53-05:00</updated>
+            <summary>
+                <![CDATA[
+                    I am main developer of the following R packages: I am co-developer of the following R packages: phyr ENMTools
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I am main developer of the following R packages:</p>
+<ul>
+<li><a href="https://rdinnager.github.io/phyf/">phyf</a></li>
+<li><a href="https://rdinnager.github.io/fibre/">fibre</a></li>
+<li>slimr</li>
+</ul>
+<p>I am co-developer of the following R packages:</p>
+<ul>
+<li>phyr</li>
+<li>ENMTools</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
 </feed>

@@ -9,5 +9,19 @@
         "name": "Russell Dinnage"
     },
     "items": [
+        {
+            "id": "https://rdinnager.github.io/dinnage_lab_website/r-software.html",
+            "url": "https://rdinnager.github.io/dinnage_lab_website/r-software.html",
+            "title": "R Software",
+            "summary": "I am main developer of the following R packages: I am co-developer of the following R packages: phyr ENMTools",
+            "content_html": "<p>I am main developer of the following R packages:</p>\n<ul>\n<li><a href=\"https://rdinnager.github.io/phyf/\">phyf</a></li>\n<li><a href=\"https://rdinnager.github.io/fibre/\">fibre</a></li>\n<li>slimr</li>\n</ul>\n<p>I am co-developer of the following R packages:</p>\n<ul>\n<li>phyr</li>\n<li>ENMTools</li>\n</ul>",
+            "author": {
+                "name": "Russell Dinnage"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-02-06T15:27:53-05:00",
+            "date_modified": "2023-02-06T15:27:53-05:00"
+        }
     ]
 }
