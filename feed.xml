@@ -3,7 +3,7 @@
     <title>Dinnage Lab</title>
     <link href="https://rdinnager.github.io/dinnage_lab_website/feed.xml" rel="self" />
     <link href="https://rdinnager.github.io/dinnage_lab_website" />
-    <updated>2023-02-07T13:21:05-05:00</updated>
+    <updated>2023-03-14T06:21:24-04:00</updated>
     <author>
         <name>Russell Dinnage</name>
     </author>
@@ -17,24 +17,24 @@
         <link href="https://rdinnager.github.io/dinnage_lab_website/r-software.html"/>
         <id>https://rdinnager.github.io/dinnage_lab_website/r-software.html</id>
 
-        <updated>2023-02-06T16:56:02-05:00</updated>
+        <updated>2023-03-14T06:21:24-04:00</updated>
             <summary>
                 <![CDATA[
-                    I am main developer of the following R packages: I am co-developer of the following R packages: phyr ENMTools
+                    I am main developer of the following R packages: I am co-developer of the following R packages: phyr - Phylogenetic Community Ecology Metrics and Models ENMTools - Environmental Niche Modelling Tools (or Species Distribution Models)
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>I am main developer of the following R packages:</p>
 <ul>
-<li><a href="https://rdinnager.github.io/phyf/">phyf</a></li>
-<li><a href="https://rdinnager.github.io/fibre/">fibre</a></li>
-<li><a href="https://rdinnager.github.io/slimr/">slimr</a></li>
+<li><a href="https://rdinnager.github.io/phyf/">phyf </a>- Phylogenetic Flows</li>
+<li><a href="https://rdinnager.github.io/fibre/">fibre</a> - Fast and Flexible Phylogenetic Models</li>
+<li><a href="https://rdinnager.github.io/slimr/">slimr</a> - Population Genomics Simulation</li>
 </ul>
 <p>I am co-developer of the following R packages:</p>
 <ul>
-<li><a href="https://daijiang.github.io/phyr/">phyr</a></li>
-<li><a href="https://github.com/danlwarren/ENMTools">ENMTools</a></li>
+<li><a href="https://daijiang.github.io/phyr/">phyr</a> - Phylogenetic Community Ecology Metrics and Models</li>
+<li><a href="https://github.com/danlwarren/ENMTools">ENMTools</a> - Environmental Niche Modelling Tools (or Species Distribution Models)</li>
 </ul>
             ]]>
         </content>
